@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/
+
 #include<iostream>
 #include<queue>
 using namespace std;

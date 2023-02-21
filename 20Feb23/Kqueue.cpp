@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/
+
 #include <bits/stdc++.h>
 using namespace std;
 
